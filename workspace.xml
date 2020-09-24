@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea4b407c-b452-4783-b744-f77f005c1777" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="tsconfig.json" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hRnxU7h50QWGFQoc44RJ6JJflf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/英才实习/课堂" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\图灵\学习ing\英才实习\课堂" />
+      <recent name="F:\图灵\学习ing\英才实习\课堂\JobTrackingManageSystem\api" />
+      <recent name="F:\图灵\学习ing\英才实习\课堂\JobTrackingManageSystem\page" />
+      <recent name="F:\图灵\学习ing\英才实习\课堂\JobTrackingManageSystem\page\company" />
+      <recent name="F:\图灵\学习ing\英才实习\课堂\JobTrackingManageSystem\page\student" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\图灵\学习ing\英才实习\课堂\JobTrackingManageSystem\api" />
+      <recent name="F:\图灵\学习ing\英才实习\课堂" />
+      <recent name="F:\图灵\学习ing\英才实习\课堂\js" />
+      <recent name="F:\图灵\学习ing\英才实习\课堂\01_html" />
+      <recent name="F:\图灵\学习ing\课外学习\王者荣耀" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea4b407c-b452-4783-b744-f77f005c1777" name="Default" comment="" />
+      <created>1594374081730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594374081730</updated>
+      <workItem from="1594374082846" duration="2644000" />
+      <workItem from="1594702138744" duration="9746000" />
+      <workItem from="1595410605442" duration="1454000" />
+      <workItem from="1598872097051" duration="9000" />
+      <workItem from="1599350058729" duration="5000" />
+      <workItem from="1599450206312" duration="520000" />
+      <workItem from="1599981546412" duration="49000" />
+      <workItem from="1599983024918" duration="6000" />
+      <workItem from="1600005701541" duration="971000" />
+      <workItem from="1600047823401" duration="33705000" />
+      <workItem from="1600219674166" duration="4941000" />
+      <workItem from="1600307791068" duration="3285000" />
+      <workItem from="1600391266567" duration="4886000" />
+      <workItem from="1600399721538" duration="27145000" />
+      <workItem from="1600600930598" duration="77000" />
+      <workItem from="1600606310780" duration="3575000" />
+      <workItem from="1600610442402" duration="9187000" />
+      <workItem from="1600649590161" duration="1648000" />
+      <workItem from="1600651555622" duration="6800000" />
+      <workItem from="1600660102861" duration="28677000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1600399568637">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600399568637" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1600055391164">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600055391164" />
+    <state x="410" y="138" width="700" height="530" key="recent.locations.popup" timestamp="1600398229569">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="410" y="138" width="700" height="530" key="recent.locations.popup/0.0.1536.824@0.0.1536.824" timestamp="1600398229569" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1600068689392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1600068689392" />
+    <state x="431" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1600660844769">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1600660844769" />
+  </component>
+</project>
